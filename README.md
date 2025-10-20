@@ -1,3 +1,15 @@
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=AW-17643878243"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'AW-17643878243');
+</script>
+
+
+
 Haal het beste uit jezelf met persoonlijke bijles!
 Heb je moeite met een vak, of wil je meer zelfvertrouwen tijdens het leren? Met persoonlijke bijles krijg je precies de ondersteuning die jij nodig hebt. Of het nu gaat om wiskunde, taal of examenvoorbereiding – samen zorgen we dat je de stof écht begrijpt.
 
